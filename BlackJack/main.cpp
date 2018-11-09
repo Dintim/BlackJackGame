@@ -1,8 +1,8 @@
 #include "BlackJackConsoleView.h"
-#include <iostream>
-#include <io.h>
-#include <fcntl.h>
-using namespace std;
+//#include <iostream>
+//#include <io.h>
+//#include <fcntl.h>
+//using namespace std;
 
 
 
